@@ -1,0 +1,15 @@
+package com.drively.app.ui.theme
+import androidx.compose.ui.graphics.Color
+val Bg        = Color(0xFF05080F)
+val Surface0  = Color(0xFF0C1220)
+val Surface1  = Color(0xFF111929)
+val Surface2  = Color(0xFF192236)
+val Blue      = Color(0xFF2463EB)
+val BlueLight = Color(0xFF60A5FA)
+val Green     = Color(0xFF22C55E)
+val Amber     = Color(0xFFF59E0B)
+val Red       = Color(0xFFEF4444)
+val TextHigh  = Color(0xFFF0F4FF)
+val TextMid   = Color(0xFF8896B0)
+val TextLow   = Color(0xFF3D4F6A)
+val BorderMid = Color(0x1AFFFFFF)
